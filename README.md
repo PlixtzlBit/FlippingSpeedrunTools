@@ -2,8 +2,7 @@
 A set of speedrunning/practice tools to help you get better at Flipping is Hard. See readme (Scroll down) for instructions on how to install it
 
 # If you already have mods installed/Have the correct version of BepInEx for this game, you can skip 1. and 2.
-https://builds.bepinex.dev/projects/bepinex_be/755/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.755%2B3fab71a.zip
-^That link will have a .zip file
+https://builds.bepinex.dev/projects/bepinex_be/755/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.755%2B3fab71a.zip <-- That link will have a .zip file
 
 1. Download and extract it into Flipping Is Hard (NOT Flipping is Hard_Data), run the game once, wait a few minutes and when you see the title screen exit. (When you extract it, if it makes a folder that starts with BepInEx.Il2CPP.Win64 or something just take everything out of that folder and into the Flipping is Hard folder)
 
