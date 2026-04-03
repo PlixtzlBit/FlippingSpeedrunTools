@@ -12,3 +12,15 @@ https://builds.bepinex.dev/projects/bepinex_be/755/BepInEx-Unity.IL2CPP-win-x64-
 3. Run the game again and you will have the mod. Hold L for one second while in a run to enable the mods. You can look at your Flipping is Hard folder for a file named ControlsPreset.txt to see the controls or change them if you want to.
 
 If it doesn't work, then if you don't see a black window appear before the game then you didn't put BepInEx in properly. If you do but the mod doesn't work, or the mod doesn't create a ControlsPreset.txt, you didn't put the mod into the plugins correctly.
+
+Current controls (Default):
+```
+1 load savestate 1
+2 load savestate 2
+3 load savestate 3
+8 create savestate 1
+9 create savestate 2
+0 create savestate 3
+V toggle fly mode
+L enable tools (Must hold for 1 second on your current run to toggle)
+```
