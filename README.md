@@ -1,4 +1,4 @@
-# FlippingSpeedrunTools
+# Flipping Speedrun Tools
 A set of speedrunning/practice tools to help you get better at Flipping is Hard. See readme (Scroll down) for instructions on how to install it
 
 # If you already have mods installed/Have the correct version of BepInEx for this game, you can skip 1.
